@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/abdulhameed7 target="_blank">
+  <a href="https://www.linkedin.com/in/abdulhameed7/?trk=public-profile-join-page target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/SAYYADHAMEED_7?t=0DyD-g-yS0t7vBF0ykvy_A&s=09" target="_blank">
