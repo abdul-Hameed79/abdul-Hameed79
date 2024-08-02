@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="center">Hi👋, I'm Abdul Hameed</h2>
+<h2 align="center">Hi👋, MySelf Abdul Hameed</h2>
 
 ###
 
-<h4 align="center">👩‍💻 A Passionate Software Engineer | Open-source enthusiast | Always learning 🚀</h4>
+<h4 align="center">👩‍💻 A Passionate Software Development Engineer | Open-source enthusiast | Always learning 🚀</h4>
 
 ###
 
