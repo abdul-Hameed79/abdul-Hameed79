@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">👩‍💻 A Passionate Software Development Engineer | Open-source enthusiast | Always learning 🚀</h4>
+<h4 align="center">👩‍💻 Passionate Software Development Engineer | Open-source enthusiast | Always learning 🚀</h4>
 
 ###
 
