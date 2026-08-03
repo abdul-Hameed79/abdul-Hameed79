@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi👋, MySelf Abdul Hameed</h2>
+<h2 align="center">Hi👋, I'm Abdul Hameed</h2>
 
 ###
 
